@@ -1,6 +1,6 @@
 # Automated Payroll Reporting
 
-[Payroll_Cover_Image](screenshots/payroll-cover-image.png)
+![Payroll_Cover_Image](screenshots/payroll-cover-image.png)
 
 > ## Portfolio Case Study
 >

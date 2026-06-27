@@ -1,5 +1,7 @@
 # Automated Payroll Reporting
 
+[Payroll_Cover_Image](screenshots/payroll-cover-image.png)
+
 > ## Portfolio Case Study
 >
 > This repository documents a finance automation project developed in a previous professional role.

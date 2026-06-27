@@ -173,3 +173,41 @@ To respect employer confidentiality, source code has not been included. The scre
 This project demonstrates my experience applying Python automation to finance and accounting operations.
 
 Rather than simply automating individual tasks, the solution automated an entire payroll reporting workflow—from data preparation through validation and final reporting—allowing accounting staff to shift their focus from repetitive processing to higher-value analysis.
+
+---
+
+## Key Design Decisions & Lessons Learned
+
+Building this project reinforced several important principles of workflow automation and financial systems development.
+
+### Standardize Data Early
+
+One of the biggest improvements came from creating a standardized payroll dataset before generating any reports. By normalizing the data at the beginning of the workflow, every downstream process became simpler, more reliable, and easier to maintain.
+
+### Validate Before Producing Output
+
+Financial reporting requires accuracy. Automated validation comparing input totals to generated outputs provided immediate confidence that the reporting process completed successfully while reducing the need for manual verification.
+
+### Automate Entire Workflows, Not Individual Tasks
+
+Rather than automating isolated spreadsheet updates, this project automated the complete reporting workflow—from merging payroll files through final report generation. Automating the entire process produced significantly greater time savings and reduced opportunities for human error.
+
+### Design for Non-Technical Users
+
+The application was built with a simple graphical interface so accounting staff could run the automation without interacting directly with Python code. Reducing technical complexity improved usability and encouraged adoption.
+
+### Build for Repeatability
+
+Payroll reporting occurs every pay period. Creating a consistent, repeatable workflow was more valuable than simply making the process faster. Standardized outputs help ensure reliable reporting regardless of who performs the task.
+
+### What I Would Improve Today
+
+If I were rebuilding this project today, I would enhance it by:
+
+* Storing configuration settings instead of requiring manual file selection.
+* Adding detailed logging and audit trails.
+* Creating automated exception reports for validation failures.
+* Supporting configurable reporting templates.
+* Packaging the application as a standalone executable with automatic updates.
+* Integrating directly with payroll or ERP APIs where available instead of relying on exported files.
+

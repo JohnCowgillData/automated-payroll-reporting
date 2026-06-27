@@ -10,6 +10,61 @@ The solution transformed a repetitive multi-hour reporting process into an autom
 
 ---
 
+# Project Gallery
+
+## Manual Payroll Reporting Process
+
+![Manual Process](screenshots/manual-process.png)
+
+The original workflow required multiple manual steps every pay period, including merging payroll files, updating numerous company workbooks, formatting reports, and validating results.
+
+---
+
+## Payroll Source File Merger
+
+![Payroll Merge](screenshots/payroll-merger.png)
+
+Two payroll exports are automatically combined into a single standardized distribution summary, eliminating manual consolidation before reporting begins.
+
+---
+
+## Payroll Processing Application
+
+![Processing GUI](screenshots/payroll-processing.png)
+
+Simple desktop interface allowing the user to:
+
+* Select merged payroll data
+* Choose the payroll period
+* Process every company workbook
+* Validate output automatically
+
+---
+
+## Company-Level Reporting Output
+
+![Company Output](screenshots/company-output.png)
+
+Automatically updated company payroll workbook with standardized formatting and current payroll information.
+
+The automation eliminates repetitive workbook updates across multiple companies.
+
+---
+
+## Final Payroll Reports
+
+![Final Reports](screenshots/final-report.png)
+
+Generated payroll reports ready for management review.
+
+The workflow produces consistent, repeatable reporting outputs every payroll cycle.
+
+---
+
+# Results
+
+This automation significantly improved payroll reporting efficiency.
+
 ## Business Problem
 
 Payroll reporting was performed manually every pay period.
@@ -90,61 +145,6 @@ Generate Final Reports
 * Workflow design
 
 ---
-
-# Screenshots
-
-## Manual Payroll Reporting Process
-
-![Manual Process](screenshots/manual-process.png)
-
-The original workflow required multiple manual steps every pay period, including merging payroll files, updating numerous company workbooks, formatting reports, and validating results.
-
----
-
-## Payroll Source File Merger
-
-![Payroll Merge](screenshots/payroll-merger.png)
-
-Two payroll exports are automatically combined into a single standardized distribution summary, eliminating manual consolidation before reporting begins.
-
----
-
-## Payroll Processing Application
-
-![Processing GUI](screenshots/payroll-processing.png)
-
-Simple desktop interface allowing the user to:
-
-* Select merged payroll data
-* Choose the payroll period
-* Process every company workbook
-* Validate output automatically
-
----
-
-## Company-Level Reporting Output
-
-![Company Output](screenshots/company-output.png)
-
-Automatically updated company payroll workbook with standardized formatting and current payroll information.
-
-The automation eliminates repetitive workbook updates across multiple companies.
-
----
-
-## Final Payroll Reports
-
-![Final Reports](screenshots/final-report.png)
-
-Generated payroll reports ready for management review.
-
-The workflow produces consistent, repeatable reporting outputs every payroll cycle.
-
----
-
-# Results
-
-This automation significantly improved payroll reporting efficiency.
 
 ### Impact
 
